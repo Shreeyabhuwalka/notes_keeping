@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680934521365",
+    "project_id": "notes-app-ee60c",
+    "storage_bucket": "notes-app-ee60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680934521365:android:d3812524fe7563c7cd2c1c",
+        "android_client_info": {
+          "package_name": "com.example.noteskeeping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680934521365-r8og4kat6tadeg8b4oit43oj8e5ecina.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteskeeping",
+            "certificate_hash": "6b54f8913721b7090e9829d983655356afcd4a3f"
+          }
+        },
+        {
+          "client_id": "680934521365-fuj3oi3jkhb4f301vkb18b82vubbi1u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxF6Vmd-sAD8-FskunjXZdfVvxk6FEfX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680934521365-fuj3oi3jkhb4f301vkb18b82vubbi1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
