@@ -46,12 +46,12 @@ class RegisterActivity : AppCompatActivity() {
                 name.requestFocus()
 
             } else if(userEmail.isEmpty()) {
-                email.setError("Please enter your Name")
+                email.setError("Please enter your Email")
                 email.requestFocus()
 
             }else if(userPassword.isEmpty())
             {
-                password.setError("Please enter your Name")
+                password.setError("Please enter your Password")
                 password.requestFocus()
 
             }else
